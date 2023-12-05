@@ -40,7 +40,7 @@
     "@storybook/react-webpack5": "^7.0.2",
     "@storybook/testing-library": "^0.1.0",
     "@storybook/theming": "^7.0.2",
-    "@tsconfig/strictest": "^2.0.0",
+    "@tsconfig/strictest": "^2.0.2",
     "autoprefixer": "^10.4.14",
     "babel-loader": "^8.3.0",
     "postcss": "^8.4.21",
